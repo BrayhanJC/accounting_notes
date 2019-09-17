@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    	<menuitem id="accounting_notes_menu"
+              parent="account.account_account_menu"
+              action="accounting_notes_form_action"
+              sequence="2"/>
+              
+</odoo>
